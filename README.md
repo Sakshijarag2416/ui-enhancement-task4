@@ -14,7 +14,3 @@ Task-4 – UI Enhancement with Dark Mode and Full Responsive Design using HTML, 
 
 ---
 
-## 👤 Developed By
-
-**Your Name**  
-**Frontend Developer Intern**
